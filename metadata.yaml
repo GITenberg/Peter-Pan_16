@@ -1,0 +1,76 @@
+_repo: Peter-Pan_16
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    alias: Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: "Peter Pan; or, the Boy Who Wouldn't Grow Up or Peter and Wendy is J.\
+  \ M. Barrie's most famous work, in the form of a 1904 play and a 1911 novel. Both\
+  \ versions tell the story of Peter Pan, a mischievous yet innocent little boy who\
+  \ can fly, and has many adventures on the island of Neverland that is inhabited\
+  \ by mermaids, fairies, Native Americans and pirates. Peter has many stories involving\
+  \ Wendy Darling and her two brothers, his fairy Tinker Bell, the Lost Boys, and\
+  \ the pirate Captain Hook. The play and novel were inspired by Barrie's friendship\
+  \ with the Llewelyn Davies family. Barrie continued to revise the play for years\
+  \ after its debut until publication of the play script in 1928.\nThe play debuted\
+  \ in London on 27 December 1904 with Nina Boucicault, daughter of playwright Dion\
+  \ Boucicault, in the title role. A Broadway production was mounted in 1905 starring\
+  \ Maude Adams. It was later revived with such actresses as Marilyn Miller and Eva\
+  \ Le Gallienne. The play has since been adapted as a pantomime, stage musical, a\
+  \ television special, and several films, including a 1924 silent film, Disney's\
+  \ 1953 animated full-length feature film, and a 2003 live action production. The\
+  \ play is now rarely performed in its original form on stage in the United Kingdom,\
+  \ whereas pantomime adaptations are frequently staged around Christmas. In the U.S.,\
+  \ the original version has also been supplanted in popularity by the 1954 musical\
+  \ version, which became popular on television.\nThe novel was first published in\
+  \ 1911 by Hodder & Stoughton in the United Kingdom and Charles Scribner's Sons in\
+  \ the United States. The original book contains a frontispiece and 11 half-tone\
+  \ plates by artist F. D. Bedford (whose illustrations are still under copyright\
+  \ in the EU). The novel was first abridged by May Byron in 1915, with Barrie's permission,\
+  \ and published under the title Peter Pan and Wendy, the first time this form was\
+  \ used. This version was later illustrated by Mabel Lucie Attwell in 1921. In 1929,\
+  \ Barrie gave the copyright of the Peter Pan works to Great Ormond Street Hospital,\
+  \ a children's hospital in London.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Literature
+- Movie Books
+gutenberg_issued: '2008-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16'
+  wikidata: Q3435337
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Never-Never Land (Imaginary place) -- Fiction'
+- !lcsh 'Peter Pan (Fictitious character) -- Fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Fantasy'
+- !lcc 'PZ'
+- !lcc 'PR'
+- GITenberg
+title: Peter Pan
+url: http://www.gutenberg.org/ebooks/16
+wikipedia:
+- https://fr.wikipedia.org/wiki/Peter_et_Wendy
+- https://es.wikisource.org/wiki/Peter_Pan_y_Wendy
+- https://nl.wikipedia.org/wiki/Peter_and_Wendy
+- https://id.wikipedia.org/wiki/Peter_and_Wendy
+- https://pt.wikipedia.org/wiki/Peter_and_Wendy
+- https://es.wikipedia.org/wiki/Peter_Pan_y_Wendy
+- https://cy.wikipedia.org/wiki/Peter_Pan
+- https://en.wikipedia.org/wiki/Peter_and_Wendy
+- https://it.wikipedia.org/wiki/Peter_e_Wendy
+- https://no.wikipedia.org/wiki/Peter_Pan_og_Wendy
+- https://hr.wikipedia.org/wiki/Petar_Pan_(roman)
+- https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%E6%BD%98
+- https://sh.wikipedia.org/wiki/Peter_and_Wendy
+- https://es.wikiquote.org/wiki/Peter_Pan_y_Wendy
