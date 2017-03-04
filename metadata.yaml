@@ -1,5 +1,8 @@
 _repo: Peter-Pan_16
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barrie, J. M. (James Matthew)
@@ -36,6 +39,8 @@ description: "Peter Pan; or, the Boy Who Wouldn't Grow Up or Peter and Wendy is 
   \ used. This version was later illustrated by Mabel Lucie Attwell in 1921. In 1929,\
   \ Barrie gave the copyright of the Peter Pan works to Great Ormond Street Hospital,\
   \ a children's hospital in London.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16#Peter-Pan
 gutenberg_bookshelf:
 - Children's Literature
 - Movie Books
