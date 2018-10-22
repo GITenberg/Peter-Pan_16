@@ -2191,7 +2191,7 @@ eagerly. "A great white bird. It is flying this way."
 "What kind of a bird, do you think?"
 
 "I don't know," Nibs said, awestruck, "but it looks so weary, and as it
-flies it moans, 'Poor Wendy,'"
+flies it moans, 'Poor Wendy.'"
 
 "Poor Wendy?"
 
@@ -2297,7 +2297,7 @@ knees.
 "Have you not seen her?" asked Peter, becoming troubled. "She flew this
 way."
 
-"Ah me!" once voice said, and another said, "Oh, mournful day."
+"Ah me!" one voice said, and another said, "Oh, mournful day."
 
 Tootles rose. "Peter," he said quietly, "I will show her to you," and
 when the others would still have hidden her he said, "Back, twins, let
@@ -2795,7 +2795,7 @@ said they were wholly true. To describe them all would require a book as
 large as an English-Latin, Latin-English Dictionary, and the most we can
 do is to give one as a specimen of an average hour on the island. The
 difficulty is which one to choose. Should we take the brush with the
-redskins at Slightly Gulch? It was a sanguinary [cheerful] affair, and
+redskins at Slightly Gulch? It was a sanguinary affair, and
 especially interesting as showing one of Peter's peculiarities, which
 was that in the middle of a fight he would suddenly change sides. At the
 Gulch, when victory was still in the balance, sometimes leaning this way
@@ -3007,7 +3007,7 @@ him in vain.
 
 "Better do what the captain orders," said Starkey nervously.
 
-"Ay, ay." Smee said, and he cut Tiger Lily's cords. At once like an eel
+"Ay, ay," Smee said, and he cut Tiger Lily's cords. At once like an eel
 she slid between Starkey's legs into the water.
 
 Of course Wendy was very elated over Peter's cleverness; but she knew
@@ -3279,7 +3279,7 @@ so with Peter at that moment I would admit it. After all, he was the
 only man that the Sea-Cook had feared. But Peter had no sinking, he had
 one feeling only, gladness; and he gnashed his pretty teeth with joy.
 Quick as thought he snatched a knife from Hook's belt and was about to
-drive it home, when he saw that he was higher up the rock that his foe.
+drive it home, when he saw that he was higher up the rock than his foe.
 It would not have been fighting fair. He gave the pirate a hand to help
 him up.
 
@@ -3448,7 +3448,7 @@ Then Peter tried slow and distinct.
 
 The Never bird became irritated; they have very short tempers.
 
-"You dunderheaded little jay," she screamed, "Why don't you do as I tell
+"You dunderheaded little jay!" she screamed, "Why don't you do as I tell
 you?"
 
 Peter felt that she was calling him names, and at a venture he retorted
@@ -3804,7 +3804,7 @@ insisted on one bout more, like partners who know that they may never
 meet again. The stories they told, before it was time for Wendy's
 good-night story! Even Slightly tried to tell a story that night, but
 the beginning was so fearfully dull that it appalled not only the others
-but himself, and he said happily:
+but himself, and he said gloomily:
 
 "Yes, it is a dull beginning. I say, let us pretend that it is the end."
 
@@ -4583,7 +4583,7 @@ Alas, Tinker Bell could not explain this, for even she did not know the
 dark secret of Slightly's tree. Nevertheless Hook's words had left no
 room for doubt. The cup was poisoned.
 
-"Besides," said Peter, quite believing himself "I never fell asleep."
+"Besides," said Peter, quite believing himself, "I never fell asleep."
 
 He raised the cup. No time for words now; time for deeds; and with one
 of her lightning movements Tink got between his lips and the draught,
@@ -4644,7 +4644,7 @@ The clapping stopped suddenly; as if countless mothers had rushed to
 their nurseries to see what on earth was happening; but already Tink was
 saved. First her voice grew strong, then she popped out of bed, then
 she was flashing through the room more merry and impudent than ever. She
-never thought of thanking those who believed, but she would have like to
+never thought of thanking those who believed, but she would have liked to
 get at the ones who had hissed.
 
 "And now to rescue Wendy!"
@@ -6050,7 +6050,7 @@ you say?"
 "Yes, that was it," says Jane, with a big breath.
 
 "And then he flew us all away to the Neverland and the fairies and the
-pirates and the redskins and the mermaid's lagoon, and the home under
+pirates and the redskins and the mermaids' lagoon, and the home under
 the ground, and the little house."
 
 "Yes! which did you like best of all?"
@@ -6151,7 +6151,7 @@ For almost the only time in his life that I know of, Peter was afraid.
 
 She let her hands play in the hair of the tragic boy. She was not a
 little girl heart-broken about him; she was a grown woman smiling at it
-all, but they were wet eyed smiles.
+all, but they were wet-eyed smiles.
 
 Then she turned up the light, and Peter saw. He gave a cry of pain; and
 when the tall beautiful creature stooped to lift him in her arms he drew
@@ -6210,7 +6210,7 @@ gazed at him.
 
 "He does so need a mother," Jane said.
 
-"Yes, I know." Wendy admitted rather forlornly; "no one knows it so well
+"Yes, I know," Wendy admitted rather forlornly; "no one knows it so well
 as I."
 
 "Good-bye," said Peter to Wendy; and he rose in the air, and the
